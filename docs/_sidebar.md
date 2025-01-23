@@ -1,2 +1,3 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
+- [Docsify](docsify-page)
+- [Streamlit](streamlit-page)
