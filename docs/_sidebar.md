@@ -1,3 +1,5 @@
 - [Read Me](README)
 - [Docsify](docsify-page)
-- [Streamlit](streamlit-page)
+- [Python](python-page)
+- [SQL](sql-page)
+- [PHP](php-page)
