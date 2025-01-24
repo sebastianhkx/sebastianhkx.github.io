@@ -3,3 +3,4 @@
 - [Python](python-page)
 - [SQL](sql-page)
 - [PHP](php-page)
+- [JavaScript](js-page)
