@@ -4,3 +4,4 @@
 - [SQL](sql-page)
 - [PHP](php-page)
 - [JavaScript](js-page)
+- [Power BI](powerbi-page)
